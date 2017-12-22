@@ -13,6 +13,6 @@ const App = () => (
       <Route exact path="/" component={ Home }/>
     </div>
   </Router>
-
 );
+
 export default App;
